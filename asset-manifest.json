@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ravensburger/static/js/main.2f72b2fd.chunk.js",
+    "main.js.map": "/ravensburger/static/js/main.2f72b2fd.chunk.js.map",
+    "runtime-main.js": "/ravensburger/static/js/runtime-main.5211ea2a.js",
+    "runtime-main.js.map": "/ravensburger/static/js/runtime-main.5211ea2a.js.map",
+    "static/js/2.e1de016b.chunk.js": "/ravensburger/static/js/2.e1de016b.chunk.js",
+    "static/js/2.e1de016b.chunk.js.map": "/ravensburger/static/js/2.e1de016b.chunk.js.map",
+    "index.html": "/ravensburger/index.html",
+    "precache-manifest.a5e85c0150cf5f70292070f1830e7f3c.js": "/ravensburger/precache-manifest.a5e85c0150cf5f70292070f1830e7f3c.js",
+    "service-worker.js": "/ravensburger/service-worker.js",
+    "static/js/2.e1de016b.chunk.js.LICENSE": "/ravensburger/static/js/2.e1de016b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5211ea2a.js",
+    "static/js/2.e1de016b.chunk.js",
+    "static/js/main.2f72b2fd.chunk.js"
+  ]
+}
